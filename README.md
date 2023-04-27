@@ -1,6 +1,6 @@
 # text-generation-webui-discord_bot
 
-Discord integration for the oobabooga's text-generation-webui
+Discord integration for the oobabooga's [text-generation-webui](https://github.com/oobabooga/text-generation-webui/)
 
 Currently it only sends any response from the chatbot to a discord Webhook of your choosing
 
