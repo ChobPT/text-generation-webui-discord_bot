@@ -16,7 +16,7 @@ The extension can be installed by cloning this repository inside the ../text-gen
 ```bash 
 cd {PATH_TO_text-generation-webui/};
 cd extensions;
-git clone https://github.com/ChobPT/text-generation-webui-discord_bot discord_bot
+git clone https://github.com/ChobPT/text-generation-webui-discord_bot.git discord_bot
 ``` 
 
 Any suggestions feel free to PR, 
